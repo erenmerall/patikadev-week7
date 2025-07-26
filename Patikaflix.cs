@@ -31,7 +31,7 @@ class ComedySeries
     }
 }
 
-class Patikafy
+class Patikaflix
 {
     static void Main(string[] args)
     {
