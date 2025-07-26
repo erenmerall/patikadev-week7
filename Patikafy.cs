@@ -14,7 +14,7 @@ class Artist
         return $"{Name} - {Genre} - {DebutYear} - {AlbumSales} milyon";
     }
 }
-class LinqPractice
+class Patikafy
 {
     static void Main(string[] args)
     {
