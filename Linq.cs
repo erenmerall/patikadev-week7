@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 class LinqPractice
 {
     static void Main(string[] args)
@@ -31,7 +35,7 @@ class LinqPractice
                 { "15'ten Büyük ve 22'den Küçük Sayılar", rangeNumbers },
                 { "Sayıların Karesi", squaredNumbers }
             };
-            // her bir sonuç için Console.Writeline kullanmak kodu amatör gösteriyor, bu yüzden Dictionary kullandım.
+        // her bir sonuç için Console.Writeline kullanmak kodu amatör gösteriyor, bu yüzden Dictionary kullandım.
 
         foreach (var item in results)
         {
